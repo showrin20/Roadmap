@@ -1,5 +1,4 @@
 # Roadmap
-Roadmap for myself
 Learn the basics of software development: This includes programming languages such as Python, Java, and C#, as well as fundamental concepts such as data structures, algorithms, and object-oriented programming.
 
 Learn about DevOps: This includes understanding the principles of continuous integration, continuous delivery, and infrastructure as code. Tools such as Git, Jenkins, and Ansible can be useful in this process.
